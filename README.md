@@ -45,6 +45,7 @@
 </ol>
 
 <h2>Созданный дашборд</h2>
+[Открыть дашборд Tableau](https://public.tableau.com/app/profile/alexey.nemchenkov/viz/SupportTicketPerformanceDashboard_17279835759970/SupportTicketPerformanceDashboard)
 <img src="images/Support Ticket Performance Dashboard.png" alt="Созданный дашборд для анализа эффективности обработки тикетов" />
 
 <h2>Результаты</h2>
