@@ -45,7 +45,7 @@
 </ol>
 
 <h2>Созданный дашборд</h2>
-<img src="./Support%20Ticket%20Performance%20Dashboard.png" alt="Созданный дашборд для анализа эффективности обработки тикетов" />
+<img src="images/Support Ticket Performance Dashboard.png" alt="Созданный дашборд для анализа эффективности обработки тикетов" />
 
 <h2>Результаты</h2>
 <p>
